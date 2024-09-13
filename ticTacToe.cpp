@@ -25,6 +25,7 @@ switch(player1){
     break;
     case 4:
     four='X';
+    break;
     case 5:
     five='X';
     break;
@@ -94,14 +95,17 @@ playerone();
 grid();
 wincheck();
 if(win==1){
-    cout<<"Player one wins!";
+    cout<<"Player one wins! Press anything to exit";
+    cin>>player1;
     return 0;
 }
 playertwo();
 grid();
 wincheck();
 if(win==1){
-    cout<<"Player two wins!";
+    cout<<"Player two wins! Press anything to exit";
+    cin>>player2;
+
     return 0;
 }
 
