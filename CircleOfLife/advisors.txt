@@ -1,0 +1,5 @@
+1. Rafiki - Invisibility (The ability to become un-seen and allows you to move back one space for 200 stamina.)
+2. Nala - Night Vision (the ability to see clearly in darkness and can grant you 200 stamina every three turns.)
+3. Sarabi - Energy Manipulation (the ability to shape and control the properties of energy and allows you to re-roll.)
+4. Zazu - Weather Control (the ability to influence and manipulate weather patterns and can move you back one space three times.)
+5. Sarafina - Super Speed (the ability to run 4x faster than the maximum speed of lions allows you to double your roll for 500 stamina.)

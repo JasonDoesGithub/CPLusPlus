@@ -1,0 +1,22 @@
+=== THE CIRCLE OF LIFE - GAME RESULTS ===
+
+Player 1 (| Elsa   | ):
+Base Pride Points: 14800
+Strength Bonus: 22000 (from 2200 Strength)
+Stamina Bonus: 20000 (from 2000 Stamina)
+Wisdom Bonus: 23000 (from 2300 Wisdom)
+Total Score: 79800
+
+Player 2 (| Mane   | ):
+Base Pride Points: 25000
+Strength Bonus: 21000 (from 2100 Strength)
+Stamina Bonus: 18000 (from 1800 Stamina)
+Wisdom Bonus: 28000 (from 2800 Wisdom)
+Total Score: 92000
+
+
+=== FINAL RESULTS ===
+
+The winner is | Mane   |  with 92000 Pride Points!
+
+Thank you for playing The Circle of Life!
