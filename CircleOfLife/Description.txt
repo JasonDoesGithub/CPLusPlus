@@ -1,1 +1,7 @@
 Circle Of Life Game!
+
+Created By Jason Lester
+
+12.11.2024
+
+Version 1.0
