@@ -1,0 +1,27 @@
+In reality, the Earth is not a perfect sphere, but rather an oblate spheroid (a type of ellipsoid)
+with the polar radius less than the equatorial radius. Because of this, the acceleration of gravity is not
+strictly a constant, but rather is a function of latitude (φ). Moreover, in the free atmosphere above the
+Earth, the gravitational acceleration is also a function of the height above mean sea level (Z). Combining
+these, the acceleration of gravity (cm sec−2) can be written as a function of the two variables, latitude
+(degrees, positive/negative in the northern/southern hemisphere) and height above mean sea level (meters)
+in the following form:
+g(φ, Z) = 980.6160(1−0.0026373 cos 2φ+5.9×10−6
+cos2
+2φ)−(3.085462×10−4+2.27×10−7
+cos 2φ)Z
++(7.254 × 10−11 + 1.0 × 10−18 cos 2φ)Z
+2 − (1.517 × 10−17 + 6 × 10−20 cos 2φ)Z
+3
+Compute the acceleration of gravity at the following locations, rounding your answers to eight (8) decimal
+places. You may want to use a spreadsheet or a short computer script to make the computations, although
+this is not required.
+
+Copyright 2025
+
+APPM - CU Boulder(a) Boulder’s Baseline Road (latitude 40◦ North), at an elevation of one mile above mean sea level.
+(b) 10 km above the North Pole.
+(c) Halfway between the equator and the North Pole at mean sea level.
+(d) 10,000 feet above mean sea level at the Antarctic Circle (≈ 66.5) degrees South latitude. Note that
+latitudes south of the equator are negative.)
+(e) For a particular Z, is the value of g obtained from this model the same at latitude φ as at latitude −φ?
+Why? (Consider both a mathematical and physical answer).
